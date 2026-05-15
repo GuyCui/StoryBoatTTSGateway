@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: guycui/mimotts
+  IMAGE_NAME: guycui/storyboat
 
 jobs:
   docker:
